@@ -4,16 +4,16 @@
 ### Modified by: Keegan Bain (GitHub - RubberDuckE)
 
 
-**NOTE:** This code was written in CLion so it also contains some files for plugins that I regularly use.
+**NOTE:** This code was written in CLion so it also contains some files for plugins that I regularly use.  
 
 ---
 
 
 ### Description
 
-This project creates a hashmap of Illinois license plates that are stored in the "tickets" text file. 
-The license plates are first filtered out and checked if they are valid or not based on the following 
-two categories:
+This project creates a hashmap of Illinois license plates that are stored in the "tickets" text file.  
+The license plates are first filtered out and checked if they are valid or not based on the following  
+two categories:  
 
 1. Personalized:
      letters and numbers, with a space between the letters  
@@ -26,5 +26,5 @@ two categories:
      Examples: 007, 1, 42, X, AAA, ZZZEFGH  
 
 
-The code then generates an index for the hash table and stores the data. The hashmap is then sorted using
+The code then generates an index for the hash table and stores the data. The hashmap is then sorted using  
 bubble sort and the contents of the sorted hashmap are written to a text file.

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+S:/Development/C++/CS 251 Fall 2019/CS 251 Project 5/ILplates.cpp
+iostream
+-
+string
+-
+math.h
+-
+ILplates.h
+S:/Development/C++/CS 251 Fall 2019/CS 251 Project 5/ILplates.h
+
+S:/Development/C++/CS 251 Fall 2019/CS 251 Project 5/ILplates.h
+iostream
+-
+string
+-
+hashtable.h
+S:/Development/C++/CS 251 Fall 2019/CS 251 Project 5/hashtable.h
+
+S:/Development/C++/CS 251 Fall 2019/CS 251 Project 5/hashtable.h
+iostream
+-
+vector
+-
+

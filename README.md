@@ -16,7 +16,7 @@ The license plates are first filtered out and checked if they are valid or not b
 two categories:  
 
 1. **Personalized:**  
-     letters and numbers, with a space between the letters  
+     Letters and numbers, with a space between the letters  
      and numbers.  Format: 1-5 letters plus 1..99 *OR*
      6 letters plus 1..9  
      Examples: A 1, B 99, ZZZZZ 1, ABCDEF 3  

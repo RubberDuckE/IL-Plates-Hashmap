@@ -3,7 +3,6 @@
 ### Original Author: Prof. Joe Hummel (UIC - CS Dept)
 ### Modified by: Keegan Bain (GitHub - RubberDuckE)
 
----
 
 **NOTE:** This code was written in CLion so it also contains some files for plugins that I regularly use.
 
@@ -21,4 +20,5 @@ The license plates are first filtered out based on the following two categories:
 2. Vanity:
      Format: 1-3 numbers *OR* 1-7 letters 
      Examples: 007, 1, 42, X, AAA, ZZZEFGH
+
 

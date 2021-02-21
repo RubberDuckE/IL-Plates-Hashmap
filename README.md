@@ -3,9 +3,11 @@
 ### Original Author: Prof. Joe Hummel (UIC - CS Dept)
 ### Modified by: Keegan Bain (GitHub - RubberDuckE)
 
+---
 
 **NOTE:** This code was written in CLion so it also contains some files for plugins that I regularly use.
 
+---
 
 This project creates a hashmap of Illinois license plates that are stored in the "tickets" text file. 
 The license plates are first filtered out based on the following two categories:

@@ -31,5 +31,5 @@ The license plates are first filtered out based on the following two categories:
 
 The following code was used to generate the indexes for the hash table:
 
-'for (int i = 0; i < plate.length(); i++)
-        index = index + (long long) (pow(36, i) * plate[i] * plate.length());'
+`for (int i = 0; i < plate.length(); i++)
+        index = index + (long long) (pow(36, i) * plate[i] * plate.length());`

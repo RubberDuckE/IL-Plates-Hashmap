@@ -1,7 +1,7 @@
 # IL-Plates-Hashmap
 
-## Original Author: Prof. Joe Hummel (UIC - CS Dept)
-## Modified by: Keegan Bain (GitHub - RubberDuckE)
+### Original Author: Prof. Joe Hummel (UIC - CS Dept)
+### Modified by: Keegan Bain (GitHub - RubberDuckE)
 
 
 **NOTE:** This code was written in CLion so it also contains some files for plugins that I regularly use.

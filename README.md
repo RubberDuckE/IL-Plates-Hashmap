@@ -15,13 +15,13 @@ This project creates a hashmap of Illinois license plates that are stored in the
 The license plates are first filtered out and checked if they are valid or not based on the following  
 two categories:  
 
-1. Personalized:
+1. **Personalized:**  
      letters and numbers, with a space between the letters  
      and numbers.  Format: 1-5 letters plus 1..99 *OR*
      6 letters plus 1..9  
      Examples: A 1, B 99, ZZZZZ 1, ABCDEF 3  
      
-2. Vanity:
+2. **Vanity:**  
      Format: 1-3 numbers *OR* 1-7 letters  
      Examples: 007, 1, 42, X, AAA, ZZZEFGH  
 

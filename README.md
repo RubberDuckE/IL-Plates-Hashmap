@@ -34,6 +34,6 @@ The following code was used to generate the indexes for the hash table:
 `unsigned long long index = 711;`
 
 `for (int i = 0; i < plate.length(); i++)`
-        `index = index + (long long) (pow(36, i) * plate[i] * plate.length());`
+`index = index + (long long) (pow(36, i) * plate[i] * plate.length());`
         
 

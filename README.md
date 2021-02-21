@@ -12,7 +12,8 @@
 ### Description
 
 This project creates a hashmap of Illinois license plates that are stored in the "tickets" text file. 
-The license plates are first filtered out based on the following two categories:
+The license plates are first filtered out and checked if they are valid or not based on the following 
+two categories:
 
 1. Personalized:
      letters and numbers, with a space between the letters
@@ -24,16 +25,6 @@ The license plates are first filtered out based on the following two categories:
      Format: 1-3 numbers *OR* 1-7 letters 
      Examples: 007, 1, 42, X, AAA, ZZZEFGH
 
----
 
-
-### Formula for index generation
-
-The following code was used to generate the indexes for the hash table:
-
-`unsigned long long index = 711;`
-
-`for (int i = 0; i < plate.length(); i++)`
-`index = index + (long long) (pow(36, i) * plate[i] * plate.length());`
-        
-
+The code then generates an index for the hash table and stores the data. The hashmap is then sorted using
+bubble sort and the contents of the sorted hashmap are written to a text file.
